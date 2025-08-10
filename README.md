@@ -29,5 +29,6 @@ Currently building projects that showcase my skills in **SQL, Python, Tableau, P
 ## 📫 How to Reach Me
 - **LinkedIn:  [https://linkedin.com/in/eniola-oluduro-b28336233](https://linkedin.com/in/eniola-oluduro-b28336233)
 - **Email:** eniolacomfort.oluduro@student.univaq.it
+- **Tableau Public:** [tableaupublic.com/profile/eniola.oluduro]
 
 
